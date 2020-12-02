@@ -1,4 +1,5 @@
 # TIL ( Today I Learned )
+# 커밋을 하는 이유(성장하기 위해서)
 <a href="https://jojoldu.tistory.com/402">jojoldu님의 블로그 포스팅</a> 중,  
 > 오늘 뭐라도 하나 했다는 것,  
 조금씩이나마 진행되는게 있다는 것,  
