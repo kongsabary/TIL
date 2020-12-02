@@ -1,7 +1,6 @@
 # TIL ( Today I Learned )
----
-><a href="https://jojoldu.tistory.com/402">jojoldu님의 블로그 포스팅</a> 중,  
-오늘 뭐라도 하나 했다는 것,  
+<a href="https://jojoldu.tistory.com/402">jojoldu님의 블로그 포스팅</a> 중,  
+> 오늘 뭐라도 하나 했다는 것,  
 조금씩이나마 진행되는게 있다는 것,  
 어제보다 나아지고 있다는 것,  
 경험치가 쌓이듯이 차곡차곡 쌓이는게 있다는 것  
