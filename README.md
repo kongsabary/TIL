@@ -13,13 +13,6 @@
 * 배운 내용은 한달 안에 한번 더 복습할 것
 ---
 # Java
-* Java 프로그램의 실행 구조
-* 가비지 컬렉터(Gabage Collector)
-* 변수
-* 기본자료형
-* 형변환
-* 특수문자와 서식문자
-* 연산자
-* 배열
-* 조건문
-* 반복문
+* <a href="https://github.com/kongsabary/TIL/blob/main/JAVA/%EC%9E%90%EB%B0%94-%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95.md">자바 기초문법</a>
+* <a href="https://github.com/kongsabary/TIL/blob/main/JAVA/%EC%9E%90%EB%B0%94-%EA%B0%9D%EC%B2%B4.md">자바 객체</a>
+* <a href="https://github.com/kongsabary/TIL/blob/main/JAVA/%EC%9E%90%EB%B0%94-%EC%83%81%EC%86%8D%20%EB%B0%8F%20%ED%81%B4%EB%9E%98%EC%8A%A4.md">자바 상속 및 클래스</a>
