@@ -24,4 +24,4 @@
 ---
 # 생활코딩
 * <a href="https://www.youtube.com/watch?v=tZooW6PritE&list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb">WEB1 - HTML & Internet</a>
-* <a href="https://www.youtube.com/watch?v=tZooW6PritE&list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb">WEB2 CSS</a>
+* <a href="https://www.youtube.com/watch?v=Ok0bBJPtgJI&list=PLuHgQVnccGMAnWgUYiAW2cTzSBywFO75B">WEB2 CSS</a>
